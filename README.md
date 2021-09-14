@@ -13,4 +13,6 @@ Dengan Menggunakan :
 2. Xampp
 3. Visual Studio Code
 
+Note : Jangan Lupa hubungkan Laptop/Komputer ke Internet agar map bisa ditampilkan.
+
 Masih Belajar hehe );
